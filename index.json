@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "S2APLER",
+  "versions": [
+    {
+      "commit": "bb4bfbcea7f7037fd0d5e4d86033690ce5f81399",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:58:34.547433+00:00"
+    }
+  ]
+}
